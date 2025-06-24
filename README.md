@@ -1,4 +1,4 @@
-# Amazon-Product-Review-EDA
+# Amazon Product Review Analysis
 ## The Capstone Project: Amazon Product Review Analysis
 This project analyzes Amazon product data including pricing, reviews, ratings, and discounts to generate business insights for e-commerce strategy. It answers 14 key business questions using Pivot funcion and includes an Excel dashboard for dynamic visualization.
 
