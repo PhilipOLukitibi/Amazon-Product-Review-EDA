@@ -15,9 +15,9 @@ This Excel-based data analysis project explores product and review data from Ama
 - Provide insights for product and marketing strategy
 
 ## Files Included
-- `Amazon Dashboard.xlsx` – final Excel dashboard
-- `formulas.xlsx` – calculated columns and logic
-- `analysis-notes.md` – answers to all 14 questions
+- Amazon Dashboard – final Excel dashboard
+- formulas – calculated columns and logic
+- analysis-notes – answers to all 14 questions
 
 ## Key Insights
 - Categories with highest discounts
